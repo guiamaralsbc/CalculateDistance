@@ -1,0 +1,53 @@
+﻿IF OBJECT_ID ('dbo.Friends') IS NOT NULL
+	DROP TABLE dbo.Friends
+GO
+
+CREATE TABLE dbo.Friends
+	(
+	FriendId  INT IDENTITY NOT NULL,
+	Name      VARCHAR (100) NOT NULL,
+	Latitude  DECIMAL (9, 7) NULL,
+	Longitude DECIMAL (9, 7) NULL,
+	CONSTRAINT PK_Friends PRIMARY KEY (FriendId)
+	)
+GO
+
+
+IF OBJECT_ID ('dbo.History') IS NOT NULL
+	DROP TABLE dbo.History
+GO
+
+CREATE TABLE dbo.History
+	(
+	HistoryId        INT IDENTITY NOT NULL,
+	FriendId         INT NOT NULL,
+	FriendsDistances VARCHAR (max) NOT NULL,
+	CONSTRAINT PK_History PRIMARY KEY (HistoryId),
+	CONSTRAINT FK_History_Friend FOREIGN KEY (FriendId) REFERENCES dbo.Friends (FriendId)
+	)
+GO
+
+INSERT INTO dbo.Friends (Name, Latitude, Longitude)
+VALUES ('Guilherme', -23.6889953, -46.6221201)
+GO
+
+INSERT INTO dbo.Friends (Name, Latitude, Longitude)
+VALUES ('Diego', -23.6859542, -46.5002618)
+GO
+
+INSERT INTO dbo.Friends (Name, Latitude, Longitude)
+VALUES ('Wesley', -23.6793415, -46.5245362)
+GO
+
+INSERT INTO dbo.Friends (Name, Latitude, Longitude)
+VALUES ('Alvaro', -23.7161144, -46.5408768)
+GO
+
+INSERT INTO dbo.Friends (Name, Latitude, Longitude)
+VALUES ('Rafael', -23.6321513, -46.5608454)
+GO
+
+INSERT INTO dbo.Friends (Name, Latitude, Longitude)
+VALUES ('Ivan', -23.7006767, -46.5738699)
+GO
+

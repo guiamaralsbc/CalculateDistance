@@ -1,0 +1,13 @@
+C:\Users\gbonilha\source\repos\GAB.DistanceCalculation\GAB.DistanceCalculation.Business\bin\Debug\netcoreapp2.0\GAB.DistanceCalculation.Data.dll
+C:\Users\gbonilha\source\repos\GAB.DistanceCalculation\GAB.DistanceCalculation.Business\bin\Debug\netcoreapp2.0\GAB.DistanceCalculation.Model.dll
+C:\Users\gbonilha\source\repos\GAB.DistanceCalculation\GAB.DistanceCalculation.Business\obj\Debug\netcoreapp2.0\GAB.DistanceCalculation.Business.csprojResolveAssemblyReference.cache
+C:\Users\gbonilha\source\repos\GAB.DistanceCalculation\GAB.DistanceCalculation.Business\obj\Debug\netcoreapp2.0\GAB.DistanceCalculation.Business.csproj.CoreCompileInputs.cache
+C:\Users\gbonilha\source\repos\GAB.DistanceCalculation\GAB.DistanceCalculation.Business\obj\Debug\netcoreapp2.0\GAB.DistanceCalculation.Business.AssemblyInfoInputs.cache
+C:\Users\gbonilha\source\repos\GAB.DistanceCalculation\GAB.DistanceCalculation.Business\obj\Debug\netcoreapp2.0\GAB.DistanceCalculation.Business.AssemblyInfo.cs
+C:\Users\gbonilha\source\repos\GAB.DistanceCalculation\GAB.DistanceCalculation.Business\bin\Debug\netcoreapp2.0\GAB.DistanceCalculation.Business.deps.json
+C:\Users\gbonilha\source\repos\GAB.DistanceCalculation\GAB.DistanceCalculation.Business\bin\Debug\netcoreapp2.0\GAB.DistanceCalculation.Business.dll
+C:\Users\gbonilha\source\repos\GAB.DistanceCalculation\GAB.DistanceCalculation.Business\bin\Debug\netcoreapp2.0\GAB.DistanceCalculation.Business.pdb
+C:\Users\gbonilha\source\repos\GAB.DistanceCalculation\GAB.DistanceCalculation.Business\bin\Debug\netcoreapp2.0\GAB.DistanceCalculation.Data.pdb
+C:\Users\gbonilha\source\repos\GAB.DistanceCalculation\GAB.DistanceCalculation.Business\bin\Debug\netcoreapp2.0\GAB.DistanceCalculation.Model.pdb
+C:\Users\gbonilha\source\repos\GAB.DistanceCalculation\GAB.DistanceCalculation.Business\obj\Debug\netcoreapp2.0\GAB.DistanceCalculation.Business.dll
+C:\Users\gbonilha\source\repos\GAB.DistanceCalculation\GAB.DistanceCalculation.Business\obj\Debug\netcoreapp2.0\GAB.DistanceCalculation.Business.pdb

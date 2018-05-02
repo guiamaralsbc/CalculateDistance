@@ -1,0 +1,9 @@
+C:\Users\gbonilha\source\repos\GAB.DistanceCalculation\GAB.DistanceCalculation.Model\bin\Debug\netcoreapp2.0\GAB.DistanceCalculation.Model.deps.json
+C:\Users\gbonilha\source\repos\GAB.DistanceCalculation\GAB.DistanceCalculation.Model\bin\Debug\netcoreapp2.0\GAB.DistanceCalculation.Model.dll
+C:\Users\gbonilha\source\repos\GAB.DistanceCalculation\GAB.DistanceCalculation.Model\obj\Debug\netcoreapp2.0\GAB.DistanceCalculation.Model.csprojResolveAssemblyReference.cache
+C:\Users\gbonilha\source\repos\GAB.DistanceCalculation\GAB.DistanceCalculation.Model\obj\Debug\netcoreapp2.0\GAB.DistanceCalculation.Model.csproj.CoreCompileInputs.cache
+C:\Users\gbonilha\source\repos\GAB.DistanceCalculation\GAB.DistanceCalculation.Model\obj\Debug\netcoreapp2.0\GAB.DistanceCalculation.Model.AssemblyInfoInputs.cache
+C:\Users\gbonilha\source\repos\GAB.DistanceCalculation\GAB.DistanceCalculation.Model\obj\Debug\netcoreapp2.0\GAB.DistanceCalculation.Model.AssemblyInfo.cs
+C:\Users\gbonilha\source\repos\GAB.DistanceCalculation\GAB.DistanceCalculation.Model\bin\Debug\netcoreapp2.0\GAB.DistanceCalculation.Model.pdb
+C:\Users\gbonilha\source\repos\GAB.DistanceCalculation\GAB.DistanceCalculation.Model\obj\Debug\netcoreapp2.0\GAB.DistanceCalculation.Model.dll
+C:\Users\gbonilha\source\repos\GAB.DistanceCalculation\GAB.DistanceCalculation.Model\obj\Debug\netcoreapp2.0\GAB.DistanceCalculation.Model.pdb
